@@ -1,0 +1,49 @@
+*** WooCommerce PickingPal Changelog ***
+2016.10.14 - version 1.2.9
+ * Remove extra page break from Pick Tickets
+
+2016.08.16 - version 1.2.7
+ * Plugin compatibility memory tweak
+ 
+2016.08.15 - version 1.2.6
+ * Fix for bundles
+ 
+ 2016.03.22 - version 1.2.6
+ * Warning bug fix
+ * Moved wc_get_product function
+
+2016.03.22 - version 1.2.5
+ * CSV export. Bug fixed
+
+2016.02.22 - version 1.2.4
+ * CSS changes. Fix for warnings
+ * Added two filters 'use_my_sku' and 'use_my_title' - allow integration to 3rd party plugins for pick event
+ 
+2015.11.20 - version 1.2.3
+ * Order number on pick ticket
+ 
+2015.08.03 - version 1.2.2
+ * Support extra SKU fields
+ 
+2015.06.19 - version 1.2.1
+ * Tweak to "Print Pick Tickets" filter
+ 
+ 2015.06.16 - version 1.2.0
+ * Support for back order items
+ * Partial scan support
+ * Added printable packing slip based on items picked
+ * Quantity over-ride barcode
+ * New "Print Pick Tickets" filter in Orders view
+ * Update to log interface
+ 
+2015.04.09 - version 1.1.1
+ * Field focus fix on scan complete
+ * Tweak order status display UI
+
+2015.04.03 - version 1.1.0
+ * Support for Product Bundles
+ * Mobile/Tablet audible tuning
+ * Mobile phone UI tweak
+ 
+2015.03.16 - version 1.0.0
+ * First Release
